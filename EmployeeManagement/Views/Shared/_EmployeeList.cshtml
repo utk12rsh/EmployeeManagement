@@ -1,0 +1,44 @@
+﻿@model EmployeeManagement.ViewModel.EmployeeViewModel
+
+<table id="employeeDataTable" class="display table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Employee ID</th>
+            <th>Employee Name</th>
+            <th>Gender</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model?.EmployeeList != null && Model.EmployeeList.Any())
+        {
+            foreach (var emp in Model.EmployeeList)
+            {
+                var genderName = (from g in Model.GenderList
+                                  where g.GenderID == emp.GenderID
+                                  select g.GenderName).FirstOrDefault() ?? "Not Available";
+
+                <tr>
+                    <td>@emp.EmployeeID</td>
+                    <td>@emp.EmployeeName</td>
+                    <td>@genderName</td>
+                    <td>
+                        <button 
+                           data-id="@emp.EmployeeID"
+                           class="btn btn-sm btn-primary edit-btn">
+                            <i class="bi bi-pencil"></i> EDIT
+                        </button>
+
+                        <button
+                           data-id="@emp.EmployeeID"
+                           class="btn btn-sm btn-danger delete-btn">
+                            <i class="bi bi-trash"></i> DELETE
+                        </button>
+                    </td>
+
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+

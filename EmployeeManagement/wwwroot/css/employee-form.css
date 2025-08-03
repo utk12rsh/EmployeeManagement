@@ -1,0 +1,132 @@
+﻿/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #f4f6f9, #e8f0fe);
+    color: #333;
+    padding: 30px 15px;
+}
+
+/* Page title */
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #2c3e50;
+    font-size: 28px;
+}
+
+/* Main layout */
+#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+}
+
+/* Form wrapper */
+#add-employee-form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+    /* Each form group */
+    #add-employee-form > div {
+        margin-bottom: 20px;
+    }
+
+/* Labels */
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #34495e;
+}
+
+/* Inputs and selects */
+input[type="text"],
+select {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 15px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+    input[type="text"]:focus,
+    select:focus {
+        border-color: #3498db;
+        box-shadow: 0 0 6px rgba(52, 152, 219, 0.3);
+        outline: none;
+    }
+
+/* Error messages */
+.text-danger {
+    display: block;
+    margin-top: 6px;
+    font-size: 14px;
+    color: #e74c3c;
+}
+
+/* Submit button */
+input[type="button"] {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+    input[type="button"]:hover {
+        background-color: #2980b9;
+        transform: translateY(-1px);
+    }
+
+    input[type="button"]:active {
+        transform: translateY(0);
+    }
+
+/* Employee list section */
+#show-employee-list {
+    margin-top: 30px;
+    width: 100%;
+    max-width: 600px;
+}
+
+/* Responsive Design */
+@media (max-width: 576px) {
+    h2 {
+        font-size: 22px;
+    }
+
+    #add-employee-form {
+        padding: 20px;
+    }
+
+    input[type="text"],
+    select {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    input[type="button"] {
+        font-size: 15px;
+        padding: 10px;
+    }
+}

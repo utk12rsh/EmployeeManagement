@@ -1,0 +1,45 @@
+﻿@model EmployeeManagement.ViewModel.EmployeeViewModel
+
+@{
+    ViewData["Title"] = "Create Employee";
+}
+
+<h2 class="mb-4">@ViewData["Title"]</h2>
+
+<div id="main">
+    <div class="container">
+        <div id="status-message"></div>
+        <form id="add-employee-form" method="post">
+            <div class="form-group">
+                <label>Name</label>
+                <input type="text" placeholder="Please enter your name" id="Name" name="Name" />
+                <span id="error-EmployeeName" class="text-danger error-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Gender</label>
+                <select id="GenderID" name="GenderID">
+                    <option value="">-- Select Gender --</option>
+                    @if (Model.GenderList != null && Model.GenderList.Any())
+                    {
+                        foreach (var gender in Model.GenderList)
+                        {
+                            <option value="@gender.GenderID">@gender.GenderName</option>
+                        }
+                    }
+                </select>
+                <span id="error-GenderID" class="text-danger error-message"></span>
+            </div>
+
+            @* Input type Hidden for EmployeeID *@
+            <div class="form-group">
+                <input type="hidden" id="EmployeeID" name="EmployeeID" />
+            </div>
+
+            <input type="button" id="submit" value="SUBMIT"/>
+        </form>
+    </div>
+    <div id="show-employee-list">
+        @await Html.PartialAsync("_EmployeeList", Model)
+    </div>
+</div>

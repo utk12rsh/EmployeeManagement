@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\wwwroot\\js\\employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:wwwroot\\js\\employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\viewmodel\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:viewmodel\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\views\\shared\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:views\\shared\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\wwwroot\\css\\employee-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:wwwroot\\css\\employee-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\viewmodel\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:viewmodel\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|d:\\dot net interview preparation\\employeemanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8923120-6461-46F7-8FE3-30D0E9D59C77}|EmployeeManagement.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employee.js",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\wwwroot\\js\\employee.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\employee.js",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\wwwroot\\js\\employee.js",
+              "RelativeToolTip": "wwwroot\\js\\employee.js",
+              "ViewState": "AgIAALYAAAAAAAAAAAAgwEkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-30T18:08:10.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAD4v4YAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:42:35.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\ViewModel\\Gender.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Gender.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\ViewModel\\Gender.cs",
+              "RelativeToolTip": "ViewModel\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:11:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T17:58:57.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Models\\Gender.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Models\\Gender.cs",
+              "RelativeToolTip": "Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:29:16.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAD4v2EAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:45:48.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:42:05.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_EmployeeList.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Views\\Shared\\_EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_EmployeeList.cshtml",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Views\\Shared\\_EmployeeList.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_EmployeeList.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T08:46:07.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T17:47:27.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "employee-form.css",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\wwwroot\\css\\employee-form.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\employee-form.css",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\wwwroot\\css\\employee-form.css",
+              "RelativeToolTip": "wwwroot\\css\\employee-form.css",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAH8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-30T18:06:12.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeInfo.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\ViewModel\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "ViewModel\\EmployeeInfo.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\ViewModel\\EmployeeInfo.cs",
+              "RelativeToolTip": "ViewModel\\EmployeeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:12:52.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeToolTip": "ViewModel\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:11:25.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T17:37:37.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T07:45:02.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:37:57.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:36:03.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\EmployeeManagement\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T17:45:22.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
