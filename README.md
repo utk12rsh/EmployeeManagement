@@ -38,9 +38,6 @@ CREATE TABLE Employee(
     FOREIGN KEY (GenderID) REFERENCES Gender(GenderID)
 );
 
--- Clear Employee Table if needed
-TRUNCATE TABLE Employee;
-
 -- View Tables
 SELECT * FROM Employee;
 SELECT * FROM Gender;
